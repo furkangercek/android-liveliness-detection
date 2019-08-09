@@ -6,3 +6,11 @@ The SVM model is trained via NUAA's client/imposter dataset and you need to crea
 and add the model there. 
 
 This project uses OpenCV 2.4.13
+The face detection is implemented via Google-Vision
+
+![Real face](http://prntscr.com/oqfqc1)
+
+
+![Imposter face](http://prntscr.com/oqfqnc)
+
+
