@@ -8,9 +8,9 @@ and add the model there.
 This project uses OpenCV 2.4.13
 The face detection is implemented via Google-Vision
 
-![Real face](http://prntscr.com/oqfqc1)
+![Real face](https://imgur.com/6YuO9kQ)
 
 
-![Imposter face](http://prntscr.com/oqfqnc)
+![Imposter face](https://imgur.com/chi7rQk)
 
 
